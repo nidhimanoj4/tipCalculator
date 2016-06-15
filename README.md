@@ -33,7 +33,7 @@ GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
 ## Notes
 
-Describe any challenges encountered while building the app.
+Building the app was a great intro to XCode and Github. 
 Submitting the app by pushing the app to GitHub repository was a bit tricky. I tried debugging the issue for nearly an hour. 
 I contacted my manager, and Codepath instructors with the error I recieved and shared screenshots of the code and terminal.
 
